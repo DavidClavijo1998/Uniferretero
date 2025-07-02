@@ -1,5 +1,5 @@
 <?php
 
-requiere('controller/C_verUsuarios.php');
+requiere('/Controller/C_verUsuarios.php');
 
 ?>

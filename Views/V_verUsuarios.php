@@ -16,7 +16,6 @@
         </tr>
     </thead>
     <tbody>
-
         <?php
        foreach ($usuarios as $user) {
             echo "<tr>";
@@ -26,8 +25,7 @@
             echo "</tr>";
         }
         ?>
+     </tbody>
 </table>
-
-
 </body>
 </html>
